@@ -14,6 +14,8 @@ I will request a change be made to one of your 10 nouns for the sole purpose of 
     Choose nouns that do things.  
     avoid choosing nouns that have things done TO them.
     If your noun consists of multiple words, use camelCaseToNameIt.
+
+dog, phone, key, car, speaker, server, cable, glass, transformer, AirConditioner
  
  2) for each of the 10 nouns, write out 3 actions it might perform, in plain english.
     a) AVOID state-checking actions, like "Car has a horn".  i.e.
@@ -52,85 +54,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
+//  Noun: dog
 //  action 1:
-
+dog.barkLoudly();
 //  action 2:
-
+dog.run();
 //  action 3:
-
+dog.eat();
 //  2)
-//  Noun:
+//  Noun: phone
 //  action 1:
-
+phone.ring();
 //  action 2:
-
+phone.playMusic();
 //  action 3:
-
+phone.vibrate();
 //  3)
-//  Noun:
+//  Noun: key
 //  action 1:
-
+key.openLock();
 //  action 2:
-
+key.closeLock();
 //  action 3:
-
+key.reflectLight();
 //  4)
-//  Noun:
+//  Noun: car
 //  action 1:
-
+car.blinkParkingLights();
 //  action 2:
-
+car.accelerate();
 //  action 3:
-
+car.heatDriverSeat();
 //  5)
-//  Noun:
+//  Noun: speaker
 //  action 1:
-
+speaker.playMusic();
 //  action 2:
-
+speaker.vibrate();
 //  action 3:
-
+speaker.blinkLed();
 //  6)
-//  Noun:
+//  Noun: server
 //  action 1:
-
+server.turnLedOn();
 //  action 2:
-
+server.hostPackages();
 //  action 3:
-
+server.turnFanOn();
 //  7)
+//  Noun: finger
+//  action 1:
+finger.pushButton();
+//  action 2:
+finger.senseTemperature();
+//  action 3:
+finger.wrapCompletely();
+//  8) eye
 //  Noun:
 //  action 1:
-
+eye.lookUp();
 //  action 2:
-
+eye.closeLid();
 //  action 3:
-
-//  8)
+eye.senseColors();
+//  9) transformer
 //  Noun:
 //  action 1:
-
+transformer.convertVoltage();
 //  action 2:
-
+transformer.stabilizeVoltage();
 //  action 3:
-
-//  9)
+transformer.filterVoltageNoise();
+//  10) AirConditioner
 //  Noun:
 //  action 1:
-
+airConditioner.heatAir();
 //  action 2:
-
+airConditioner.coolAir();
 //  action 3:
-
-//  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+airConditioner.dryAir();
 
 
 #endif
