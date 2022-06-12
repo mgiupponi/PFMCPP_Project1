@@ -55,83 +55,83 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 //  1)
 //  Noun: dog
-//  action 1:
+//  action 1:    the dog barks Loudly
 dog.barkLoudly();
-//  action 2:
+//  action 2:    the dog runs
 dog.run();
-//  action 3:
+//  action 3:    the dog eat
 dog.eat();
 //  2)
 //  Noun: phone
-//  action 1:
-phone.ring();
-//  action 2:
+//  action 1:    the phone ringgs
+phone.ring(); 
+//  action 2:    the phone plays music
 phone.playMusic();
-//  action 3:
+//  action 3:    the phone vibrates
 phone.vibrate();
 //  3)
 //  Noun: key
-//  action 1:
+//  action 1:    the key opens the lock
 key.openLock();
-//  action 2:
+//  action 2:    the key closes the lock
 key.closeLock();
-//  action 3:
+//  action 3:    the key reflects light
 key.reflectLight();
 //  4)
 //  Noun: car
-//  action 1:
+//  action 1:    the car blinks parking lights
 car.blinkParkingLights();
-//  action 2:
+//  action 2:    the car accelerates
 car.accelerate();
-//  action 3:
+//  action 3:    the car heats the driver seat
 car.heatDriverSeat();
 //  5)
 //  Noun: speaker
-//  action 1:
+//  action 1:    the speaker plays music
 speaker.playMusic();
-//  action 2:
+//  action 2:    the speaker vibrates
 speaker.vibrate();
-//  action 3:
+//  action 3:    the blinks the led
 speaker.blinkLed();
 //  6)
 //  Noun: server
-//  action 1:
+//  action 1:    the server turns its led on
 server.turnLedOn();
-//  action 2:
+//  action 2:    the server hosts packages
 server.hostPackages();
-//  action 3:
+//  action 3:    the server turns its fan on
 server.turnFanOn();
 //  7)
 //  Noun: finger
-//  action 1:
+//  action 1:    the finger pushes the button
 finger.pushButton();
-//  action 2:
+//  action 2:    the finger senses the temperature
 finger.senseTemperature();
-//  action 3:
+//  action 3:    the finger wraps completely
 finger.wrapCompletely();
 //  8) eye
 //  Noun:
-//  action 1:
+//  action 1:    the eye looks up
 eye.lookUp();
-//  action 2:
-eye.closeLid();
-//  action 3:
+//  action 2:    the eye closes the eyelid
+eye.closeEyelid();
+//  action 3:    the eye senses colors
 eye.senseColors();
 //  9) transformer
 //  Noun:
-//  action 1:
+//  action 1:    the transformer converts voltage
 transformer.convertVoltage();
-//  action 2:
+//  action 2:    the transformer stabilizes voltage
 transformer.stabilizeVoltage();
-//  action 3:
-transformer.filterVoltageNoise();
+//  action 3:    the transformer filers Voltage Noise
+transformer.filterVoltageNoise(); 
 //  10) AirConditioner
 //  Noun:
-//  action 1:
+//  action 1:    the AirConditioner heats the air
 airConditioner.heatAir();
-//  action 2:
+//  action 2:    the AirConditioner cools the air
 airConditioner.coolAir();
-//  action 3:
+//  action 3:    the AirConditioner dries the air
 airConditioner.dryAir();
 
 
