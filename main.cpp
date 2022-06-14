@@ -102,13 +102,13 @@ server.hostPackages();
 //  action 3:    the server turns its fan on
 server.turnFanOn();
 //  7)
-//  Noun: finger
-//  action 1:    the finger pushes the button
-finger.pushButton();
-//  action 2:    the finger senses the temperature
-finger.senseTemperature();
-//  action 3:    the finger wraps completely
-finger.wrapCompletely();
+//  Noun: smellyCat
+//  action 1:    the smellyCat visits the neighbor
+smellyCat.visitNeighbor();
+//  action 2:    the smellyCat asks for food
+smellyCat.askForFood();
+//  action 3:    the smellyCat roll in the grass
+smellyCat.rollInTheGrass();
 //  8) eye
 //  Noun:
 //  action 1:    the eye looks up
