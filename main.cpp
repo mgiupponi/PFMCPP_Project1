@@ -14,6 +14,8 @@ I will request a change be made to one of your 10 nouns for the sole purpose of 
     Choose nouns that do things.  
     avoid choosing nouns that have things done TO them.
     If your noun consists of multiple words, use camelCaseToNameIt.
+
+dog, phone, key, car, speaker, server, cable, glass, transformer, AirConditioner
  
  2) for each of the 10 nouns, write out 3 actions it might perform, in plain english.
     a) AVOID state-checking actions, like "Car has a horn".  i.e.
@@ -52,85 +54,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: dog
+//  action 1:    the dog barks Loudly
+dog.barkLoudly();
+//  action 2:    the dog runs
+dog.run();
+//  action 3:    the dog eat
+dog.eat();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: phone
+//  action 1:    the phone ringgs
+phone.ring(); 
+//  action 2:    the phone plays music
+phone.playMusic();
+//  action 3:    the phone vibrates
+phone.vibrate();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: key
+//  action 1:    the key opens the lock
+key.openLock();
+//  action 2:    the key closes the lock
+key.closeLock();
+//  action 3:    the key reflects light
+key.reflectLight();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: car
+//  action 1:    the car blinks parking lights
+car.blinkParkingLights();
+//  action 2:    the car accelerates
+car.accelerate();
+//  action 3:    the car heats the driver seat
+car.heatDriverSeat();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: speaker
+//  action 1:    the speaker plays music
+speaker.playMusic();
+//  action 2:    the speaker vibrates
+speaker.vibrate();
+//  action 3:    the blinks the led
+speaker.blinkLed();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: server
+//  action 1:    the server turns its led on
+server.turnLedOn();
+//  action 2:    the server hosts packages
+server.hostPackages();
+//  action 3:    the server turns its fan on
+server.turnFanOn();
 //  7)
+//  Noun: smellyCat
+//  action 1:    the smellyCat visits the neighbor
+smellyCat.visitNeighbor();
+//  action 2:    the smellyCat asks for food
+smellyCat.askForFood();
+//  action 3:    the smellyCat roll in the grass
+smellyCat.rollInTheGrass();
+//  8) eye
 //  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  8)
+//  action 1:    the eye looks up
+eye.lookUp();
+//  action 2:    the eye closes the eyelid
+eye.closeEyelid();
+//  action 3:    the eye senses colors
+eye.senseColors();
+//  9) transformer
 //  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  9)
+//  action 1:    the transformer converts voltage
+transformer.convertVoltage();
+//  action 2:    the transformer stabilizes voltage
+transformer.stabilizeVoltage();
+//  action 3:    the transformer filers Voltage Noise
+transformer.filterVoltageNoise(); 
+//  10) AirConditioner
 //  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  action 1:    the AirConditioner heats the air
+airConditioner.heatAir();
+//  action 2:    the AirConditioner cools the air
+airConditioner.coolAir();
+//  action 3:    the AirConditioner dries the air
+airConditioner.dryAir();
 
 
 #endif
